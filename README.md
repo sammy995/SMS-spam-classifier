@@ -4,7 +4,7 @@ This project aims to classify whether an SMS message is spam or not. The project
 
 The project consists of the following steps:
 
-### Data Cleaning: The first step is to clean the data by dropping unnecessary columns and renaming the remaining ones.
+### Data Cleaning ### : The first step is to clean the data by dropping unnecessary columns and renaming the remaining ones.
 
 ### EDA: Exploratory data analysis is performed to understand the dataset and its characteristics.
 
