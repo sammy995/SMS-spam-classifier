@@ -31,7 +31,7 @@ The project consists of the following steps:
 ## Installation
 To run this project, you need to have Python installed on your system. You can install the required libraries using the following command:
 
-``` pip install pandas numpy matplotlib seaborn nltk scikit-learn wordcloud ```
+``` pip install pandas numpy matplotlib seaborn nltk scikit-learn wordcloud streamlit ```
 
 ### Usage
   The project is implemented in a Jupyter Notebook file named SMS_Spam_Classifier.ipynb. To run the application:
